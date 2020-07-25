@@ -4,3 +4,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 
 Arquivo README foi modificado.
+
+Preparado para o push
+
+do Github
